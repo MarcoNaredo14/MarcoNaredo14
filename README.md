@@ -25,7 +25,7 @@
 
 ## Languages, Frameworks & Tools
 
-![Skills](https://skillicons.dev/icons?i=java,cpp,js,html,css,spring,mysql,postgres,git,github,docker,figma,wordpress,vscode,idea)
+![Skills](https://skillicons.dev/icons?i=java,cpp,js,html,css,springboot,mysql,postgres,git,github,docker,figma,wordpress,vscode,idea)
 
 ---
 
@@ -64,4 +64,4 @@ WordPress and WooCommerce website focused on a clean product catalog experience.
 
 ## Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/MarcoNaredo14/MarcoNaredo14/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/MarcoNaredo14/MarcoNaredo14/output/github-contribution-grid-snake-dark.svg)
